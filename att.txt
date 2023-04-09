@@ -1,0 +1,27 @@
+title: Specifies extra information about an HTML element (displayed as a tooltip)  
+href: Specifies the URL of the page the link goes to
+src: Specifies the URL of the image or media file
+alt: Specifies alternative text for an image
+width: Specifies the width of an element
+height: Specifies the height of an element
+target: Specifies where to open the linked document
+value: Specifies the value of an input element
+disabled: Specifies that an input element should be disabled
+checked: Specifies that an input element should be pre-selected when the page loads
+name: Specifies the name of an HTML element
+readonly: Specifies that an input element should be read-only
+required: Specifies that an input element must be filled out before submitting the form.
+autocomplete: Specifies whether an input field should have autocomplete enabled or not
+dir: Specifies the text direction of an HTML element.
+colspan: Specifies the number of columns an HTML table cell should span.  > two columns convert in one
+rowspan: Specifies the number of rows an HTML table cell should span. => two rows convert in one 
+hidden: Specifies that an HTML element should be hidden from view.
+draggable: Specifies whether an HTML element is draggable or not.
+placeholder: Specifies placeholder text for an input element.
+autoplay: Specifies that a video or audio element should start playing automatically when the page loads.
+min/max: Specifies the minimum or maximum value for an input element with type="number" or type="range".
+controls : The controls attribute is used in HTML to add media player controls to audio and video 
+type=> use on <ol type="a , I . i , 1">  the order list in to 1 2 3 or i ii iii iv controls 
+type=> use on <ul type="disc ,squre, circle">  the order list in to 1 2 3 or i ii iii iv controls 
+border > use at table tag
+
